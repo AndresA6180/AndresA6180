@@ -1,6 +1,8 @@
-Hola! Mi nombre es Andres Aguirre y este es un pequeño portafolio de los proyectos y actividades que he hecho a lo largo de mi carrera.
+<h1>Hola! Mi nombre es Andres Aguirre</h1>
 
-# Proyectos Escolares
+ Este es un pequeño portafolio de los proyectos y actividades que he hecho a lo largo de mi carrera :)
+
+<h3>Proyectos Escolares</h3>
 
 <table>
   <thead align="center">
@@ -51,7 +53,7 @@ Hola! Mi nombre es Andres Aguirre y este es un pequeño portafolio de los proyec
   </tbody>
 </table>
 
-# Proyectos Personales
+<h3>Proyectos Personales</h3>
 
 <table>
   <thead align="center">
