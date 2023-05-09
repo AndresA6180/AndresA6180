@@ -5,7 +5,7 @@ I am currently a student at the Tec de Monterrey in Mexico. I have a big interes
 ### 🧰 Languages and Tools
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="GitHub Icons/c++-icon.png"/>
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="GitHub Icons/c#-icon.png" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="GitHub Icons/csharp-icon.png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="GitHub Icons/python-icon.png" />
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="GitHub Icons/kotlin-icon.png" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="GitHub Icons/unity-icon.png" />
