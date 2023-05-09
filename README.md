@@ -88,6 +88,6 @@ I am currently a student at the Tec de Monterrey in Mexico. I have a big interes
 
 ### Companies I have worked with
 
-<h3> <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="GitHub Icons/c++-icon.png"/> Cemex </h3>
-<h3> <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="GitHub Icons/csharp-icon.png" /> John Deere </h3>
-<h3> <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="GitHub Icons/python-icon.png" /> IBM </h3>
+<h3> <img align="left" alt="Cemex" width="50" style="padding-right:10px;" src="GitHub Icons/cemex-icon.png"/> Cemex </h3>
+<h3> <img align="left" alt="John Deere" width="30px" style="padding-right:10px;" src="GitHub Icons/johndeere-icon.png" /> John Deere </h3>
+<h3> <img align="left" alt="IBM" width="30px" style="padding-right:10px;" src="GitHub Icons/ibm-icons.png" /> IBM </h3>
