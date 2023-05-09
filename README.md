@@ -84,7 +84,6 @@ I am currently a student at the Tec de Monterrey in Mexico. I have a big interes
     </tr>
   </tbody>
 </table>
-<br />
 
 ### Companies I have worked with
 
