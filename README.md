@@ -1,4 +1,4 @@
-<h1> <img src="https://slackmojis.com/emojis/61115-hello-world/download" width="30"/>Hello! My name is Andres Aguirre</h1>
+<h1> <img src="https://slackmojis.com/emojis/61115-hello-world/download" width="45"/> Hello! My name is Andres Aguirre </h1>
 
 I am currently a student at the Tec de Monterrey in Mexico. I have a big interest in videogames on Unity and working on the cybersecurity sector. You can find some of my projects below 👇
 
