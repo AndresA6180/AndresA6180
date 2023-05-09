@@ -1,6 +1,6 @@
-<h1>Hola! Mi nombre es Andres Aguirre</h1>
+<h1>Hello! My name is Andres Aguirre</h1>
 
- Este es un pequeño portafolio de los proyectos y actividades que he hecho a lo largo de mi carrera :)
+I am currently a student at the Tec de Monterret in Mexico. I have a big interest in videogames on Unity and working on the cybersecurity sector. You can find some of my projects below 👇
 
 <h3>Proyectos Escolares</h3>
 
