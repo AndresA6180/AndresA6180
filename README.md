@@ -1,6 +1,7 @@
 <h1> <img src="https://slackmojis.com/emojis/61115-hello-world/download" width="45"/> Hello! My name is Andres Aguirre </h1>
 
 I am currently a student at the Tec de Monterrey in Mexico. I have a big interest in making videogames on Unity and learning about cybersecurity and eventually work on that too. You can find some of my projects below 👇  
+<br />
 
 ### 🧰 Languages and Tools
 
@@ -14,6 +15,7 @@ I am currently a student at the Tec de Monterrey in Mexico. I have a big interes
 <img align="left" alt="Racket" width="30px" style="padding-right:10px;" src="GitHub Icons/racket-icon.png" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="GitHub Icons/r-icon.png" />
 <img align="left" alt="Erlang" width="30px" style="padding-right:10px;" src="GitHub Icons/erlang-icon.png" />
+<br />
 <br />
 
 
@@ -82,3 +84,10 @@ I am currently a student at the Tec de Monterrey in Mexico. I have a big interes
     </tr>
   </tbody>
 </table>
+<br />
+
+### Companies I have worked with
+
+<h3> <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="GitHub Icons/c++-icon.png"/> Cemex </h3>
+<h3> <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="GitHub Icons/csharp-icon.png" /> John Deere </h3>
+<h3> <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="GitHub Icons/python-icon.png" /> IBM </h3>
