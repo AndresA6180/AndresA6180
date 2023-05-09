@@ -1,13 +1,13 @@
 <h1>Hello! My name is Andres Aguirre</h1>
 
-I am currently a student at the Tec de Monterret in Mexico. I have a big interest in videogames on Unity and working on the cybersecurity sector. You can find some of my projects below 👇
+I am currently a student at the Tec de Monterrey in Mexico. I have a big interest in videogames on Unity and working on the cybersecurity sector. You can find some of my projects below 👇
 
-<h3>Proyectos Escolares</h3>
+<h3>School Projects</h3>
 
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Proyectos</b></td>
+      <td><b>Projects</b></td>
     </tr>
   </thead>
   <tbody>
@@ -53,12 +53,12 @@ I am currently a student at the Tec de Monterret in Mexico. I have a big interes
   </tbody>
 </table>
 
-<h3>Proyectos Personales</h3>
+<h3>Personal Projects</h3>
 
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Proyectos</b></td>
+      <td><b>Projects</b></td>
     </tr>
   </thead>
   <tbody>
