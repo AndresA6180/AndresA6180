@@ -1,6 +1,21 @@
 <h1> <img src="https://slackmojis.com/emojis/61115-hello-world/download" width="45"/> Hello! My name is Andres Aguirre </h1>
 
-I am currently a student at the Tec de Monterrey in Mexico. I have a big interest in making videogames on Unity and learning about cybersecurity and eventually work on that too. You can find some of my projects below 👇
+I am currently a student at the Tec de Monterrey in Mexico. I have a big interest in making videogames on Unity and learning about cybersecurity and eventually work on that too. You can find some of my projects below 👇  
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="Racket" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Erlang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<br />
+
 
 <h3>School Projects</h3>
 
