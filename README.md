@@ -1,6 +1,6 @@
 <h1> <img src="https://slackmojis.com/emojis/61115-hello-world/download" width="45"/> Hello! My name is Andres Aguirre </h1>
 
-I am currently an undergraduate student in Tec de Monterrey in Mexico studying computer science and engineering. I have a big interest in making videogames on Unity and learning about cybersecurity and eventually work on that too. You can find some of my projects below 👇
+I am currently an undergraduate student in Tec de Monterrey in Mexico studying computer science and engineering. I have a big interest in making videogames on Unity and learning about cybersecurity and eventually work on that too. I am a person who liked to work in a team environment and always tries to find a silver lining to any problem I have. I am also a very good problem solver and I always try to look at problems from different angles and use my previous experiences and apply them to new problems. I can speak English, Spanish, French, and German.
 <br />
 
 ### 🧰 Languages and Tools
